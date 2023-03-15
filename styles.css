@@ -1,0 +1,56 @@
+* {
+    font-style: none;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+body {
+    width: 100%;
+    height: auto;
+}
+
+.sliders {
+    background-color: rgb(55, 71, 77);
+    color: white;
+    font-family: 'Oswald';
+}
+
+.slider--box {
+    width: 80%;
+    height: 400px;
+}
+
+ul {
+    gap: 10px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 48px;
+    align-items: center;
+}
+
+h2 {
+    font-size: 29px;
+}
+
+p {
+    font-size: 21px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.firma {
+    text-align: end;
+}
+
+.imagen {
+    height: 100%;
+    width: auto;
+}
